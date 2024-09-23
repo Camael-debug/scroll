@@ -6,7 +6,7 @@ import{
     Image,
     TouchableOpacity,
 } from 'react-native';
-
+// qual quer coisa
 class App extends Component{
   
   constructor(props){
